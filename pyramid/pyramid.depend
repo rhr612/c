@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673878519 source:u:\c programm class\code\pyramid\main.c
+	<stdio.h>
+	<stdlib.h>
+
