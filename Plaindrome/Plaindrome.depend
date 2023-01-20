@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674207317 source:u:\c programm class\code\plaindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+

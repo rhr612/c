@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674151375 source:u:\c programm class\code\case check\main.c
+	<stdio.h>
+	<stdlib.h>
+
